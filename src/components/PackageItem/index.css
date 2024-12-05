@@ -1,0 +1,4 @@
+.package-item-container {
+  display: flex;
+  flex-direction: column;
+}

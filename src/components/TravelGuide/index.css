@@ -1,0 +1,12 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #eef4f7;
+  min-height: 100vh;
+}
+
+.package-list-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
